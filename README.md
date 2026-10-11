@@ -2,8 +2,8 @@
 ![Banner01](https://github.com/user-attachments/assets/1e52cbda-8d5a-4581-bfdc-1d99f9297cd7)
 
 ![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-![profile count](https://komarev.com/ghpvc/?username=vicram210&color=red)
-[![GitHub](https://img.shields.io/github/followers/vicram210?label=follow&style=social)](https://github.com/vicram210)
+![profile count](https://komarev.com/ghpvc/?username=gato4x4&color=red)
+[![GitHub](https://img.shields.io/github/followers/gato4x4?label=follow&style=social)](https://github.com/vicram210)
 
 <h2 align="center"> I'm a Web Application Development student 💻</h2>
 

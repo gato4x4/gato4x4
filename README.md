@@ -3,7 +3,7 @@
 
 ![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ![profile count](https://komarev.com/ghpvc/?username=gato4x4&color=red)
-[![GitHub](https://img.shields.io/github/followers/gato4x4?label=follow&style=social)](https://github.com/vicram210)
+[![GitHub](https://img.shields.io/github/followers/gato4x4?label=follow&style=social)](https://github.com/gato4x4)
 
 <h2 align="center"> I'm a Web Application Development student 💻</h2>
 
